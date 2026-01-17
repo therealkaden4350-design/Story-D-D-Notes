@@ -1,0 +1,10 @@
+# Exclude plugin configuration. Might be useful to prevent some plugin from exposing sensitive data
+**/.obsidian/plugins
+
+# Exclude workspace
+**/workspace.json
+**/workspace-mobile.json
+
+# Exclude OS settings and caches
+**.trash/
+**.DS_Store
