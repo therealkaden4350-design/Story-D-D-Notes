@@ -1,0 +1,1 @@
+Goliath, 6 ‘9 ft tall, greyish skin, strongman build, less intelligent than average, bald, loves fighting, happy soul, cares for the people he loves, very powerful. Can’t read or write well, grew up as a kingdom’s gladiator, earned freedom through killing, wants to live life on his own terms, travelling, eating, fighting is what he yearns for.**

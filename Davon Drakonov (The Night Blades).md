@@ -1,0 +1,1 @@
+Human, brown eyes, brown hair, 5’ 10 ft tall, has a different accent compared to locals, straightforward, athletic frame, flexible, great at climbing, animals, and drinking, grew up as a hunter in the woods with family, wanted to leave and see the world. 

@@ -1,0 +1,1 @@
+Half Human-Half Dark Elf, Brown eyes, 5 ‘1 ft, small, slender, black hair, straight forward talking, skilled in speed, dual-wielding daggers, can bend/manipulate water, rain enhances her senses, and skills, family bloodline gift, destined to enhance her abilities for betterment of her people.

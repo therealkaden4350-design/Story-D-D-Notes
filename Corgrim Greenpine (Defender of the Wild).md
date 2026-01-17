@@ -1,0 +1,1 @@
+Wood Elf green eyes, average build, smaller frame, 5 '9, dreaded hair, skilled in tracking, green thumb, shapeshifting, talking to animals, plant manipulation, earth bending. Father abandoned mother and child, destined to set path of discovery, protect forests and lands from other beings meaning to destroy them.

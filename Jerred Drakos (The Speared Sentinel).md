@@ -1,0 +1,1 @@
+Human, brown hair, 5’ 11 blue eyes, smaller frame, built, skilled in charisma, happy, skilled in the spear and shield, skilled in tactics. Descendant of royalty, destined to be king, peacemaker. 

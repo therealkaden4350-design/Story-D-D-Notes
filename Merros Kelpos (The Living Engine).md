@@ -1,0 +1,1 @@
+Gnome, brown eyes, brown hair, skinny for a gnome, 3’5 ft tall, glasses, likes bio-engineer, tinkerer, engineer, inventionist, Was raised in the engineer’s guild, left to create his own destiny, and adventure.

@@ -1,0 +1,1 @@
+Human, red hair, green eyes, 6 ‘2 ft tall, very fit, defined form, berserker fighter, skilled in dual wielding blades (axes), great fighter, very loyal, headstrong, seeking adventure, and honor his legacy for his family, an honorable life and death. 

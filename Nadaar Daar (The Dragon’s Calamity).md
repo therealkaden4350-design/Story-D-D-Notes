@@ -1,0 +1,1 @@
+Dragonborn, blue scales, green eyes, no horns, outcast, 6 ‘2 ft tall, fit/athletic frame, wizard/mage, very kind, respectful, powerful, grew up in a war-torn impoverished land, seeking better life, opportunity given to join mage guild, on journey to improve his magical capabilities for higher status of guild. 

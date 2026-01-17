@@ -1,0 +1,1 @@
+ Human, noble, ginger hair, brawn build, blue eyes, 6 ft, destined to be lord of a great house, wants to travel/explore away from duties, skilled in mapmaking and navigation. 

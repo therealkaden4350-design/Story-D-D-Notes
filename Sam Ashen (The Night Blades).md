@@ -1,0 +1,1 @@
+Human, brown hair, brown eyes, 6 ft tall, athletic and bigger frame, flexible, has a lot of charisma, good looking, great at climbing, one handed weapons. Grew up as a baker’s son, went to the city for education, got tossed up with a bad group, left for a new start and adventure. 

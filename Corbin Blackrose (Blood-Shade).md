@@ -1,0 +1,1 @@
+Blood Elf, Tall, 6 ‘1 ft, pale white skin, yellow eyes, silver hair, skinny but fit, very intelligent, good at history, good charisma, stuck-up, royal destined to be leader of all Blood-Elfs, traveling to accumulate knowledge, and search for resources to better his kingdom and people. 
