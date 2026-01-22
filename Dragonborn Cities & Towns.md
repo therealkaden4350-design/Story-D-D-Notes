@@ -58,7 +58,7 @@ Market days are staggered to avoid overcrowding and clan disputes. Cutting old-g
 
 #### **Province: Sunreach** 
 
-**Khalrith Ford-** 
+**Khalrith Ford-** Rolling grasslands with frost-hardy grasses, pine lines creeping in from the north. The Khalrith Flow, cold and fast, shallow enough here to cross year-round. 
 
 
 
