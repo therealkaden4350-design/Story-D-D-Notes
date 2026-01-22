@@ -11,13 +11,14 @@
             "id": "0a3282c74ce767a4",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Dragonborn Cities & Towns.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Dragonborn Cities & Towns"
             }
           }
         ]
@@ -197,9 +198,9 @@
   },
   "active": "0a3282c74ce767a4",
   "lastOpenFiles": [
+    "Untitled.base",
     "Git Test Note.md",
     "New Text Document.txt",
-    "Untitled.base",
     "Dragonborn Cities & Towns.md",
     "Story-D-D-Notes",
     "World Ages.md",

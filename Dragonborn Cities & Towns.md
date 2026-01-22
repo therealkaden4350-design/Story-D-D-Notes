@@ -56,6 +56,7 @@ Market days are staggered to avoid overcrowding and clan disputes. Cutting old-g
 
 **Khaelor-** long dry summers and heavy monsoon rains. All travelers must cross a human kingdom’s land first to reach it. Khaelor exists because of its geography—you cannot reach it without passing through another crown’s lands, making it a choke point for diplomacy and smuggling alike. Stone-and-hardwood longhouses with raised roofs for heat and rain. Human-style arcaded marketplaces, but with dragonborn carvings and scale-motifs. Predominantly dragonborn. Permanent human merchant families and seasonal farm laborers. Grain, citrus, spice-roots, rice-like reeds, cane-sweeteners. Trade stamps required on all goods entering or leaving. Currency accepted from both kingdoms, weighed twice—once by law, once by tradition.
 
+Province: 
 
 
 
