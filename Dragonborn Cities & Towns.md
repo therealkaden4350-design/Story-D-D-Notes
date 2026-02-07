@@ -58,7 +58,8 @@ Market days are staggered to avoid overcrowding and clan disputes. Cutting old-g
 
 #### **Province: Sunreach** 
 
-**Khalrith Ford-** Rolling grasslands with frost-hardy grasses, pine lines creeping in from the north. The Khalrith Flow, cold and fast, shallow enough here to cross year-round. 
+**Khalrith Ford-** Rolling grasslands with frost-hardy grasses, pine lines creeping in from the north. The Khalrith Flow, cold and fast, shallow enough here to cross year-round. Town sat just uphill to avoid flooding. Low stone buildings with sloped roofs and timber reinforcements. Braziers burn year-round to keep ice from forming on the crossing. Fur traders, human drovers, and taiga clans seasonally present. Goods traded. Furs, tallow, amber, pine resins. Southern grain, iron tools, salt blocks, river fish and smoked meats. All cargo is Weighed, Inspected, Marked with a ford-sigil. No mark = no passage. Ruled by a Fordwarden, appointed by the provincial authority
+Toll rates adjust with seasons and river depth. Smuggling punished by **river exile**—forced crossing upstream in winter. Khalrith is lawful, but not cruel. Fair weights are sacred. Locals call themselves Ford-Claws. Honor is tied to keeping the crossing open. Annual festival: The First Thaw. Celebrates reopening the ford after winter ice breaks. River offerings made for safe passage. 
 
 
 

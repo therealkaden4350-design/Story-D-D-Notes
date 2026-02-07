@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Dragonborn Cities & Towns"
             }
+          },
+          {
+            "id": "327497fc40c8e0be",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,7 +209,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0a3282c74ce767a4",
+  "active": "327497fc40c8e0be",
   "lastOpenFiles": [
     "Untitled.base",
     "Git Test Note.md",
